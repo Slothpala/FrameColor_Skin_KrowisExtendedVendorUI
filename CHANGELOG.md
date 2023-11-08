@@ -1,4 +1,10 @@
 # **Changelog**
+### Version [1.0.1] - 2023-11-08
+#### Updated
+* interface version to 100200
+
+#### Added
+* OptionsButton
 
 ### Version [1.0.1] - 2023-10-29
 #### Added

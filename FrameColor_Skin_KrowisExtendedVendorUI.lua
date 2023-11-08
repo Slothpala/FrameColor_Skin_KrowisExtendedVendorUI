@@ -15,6 +15,14 @@ function module:Recolor(...)
         KrowiEVU_BottomExtensionLeftBorder,
         KrowiEVU_BottomExtensionMidBorder,
         KrowiEVU_BottomExtensionRightBorder,
+        KrowiEVU_OptionsButtonTopMiddle,
+        KrowiEVU_OptionsButtonTopRight,
+        KrowiEVU_OptionsButtonMiddleRight,
+        KrowiEVU_OptionsButtonBottomRight,
+        KrowiEVU_OptionsButtonBottomMiddle,
+        KrowiEVU_OptionsButtonBottomLeft,
+        KrowiEVU_OptionsButtonMiddleLeft,
+        KrowiEVU_OptionsButtonTopLeft,
     }) do 
         v:SetDesaturation(desaturation)
         v:SetVertexColor(color.r, color.g, color.b)
