@@ -1,5 +1,5 @@
 # **Changelog**
-### Version [1.0.1] - 2023-11-08
+### Version [1.0.2] - 2023-11-08
 #### Updated
 * interface version to 100200
 
